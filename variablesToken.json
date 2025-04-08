@@ -1,0 +1,196 @@
+{
+  "color": {
+    "Colors": {
+      "Schemes": {
+        "On Primary": {
+          "value": "rgba(255,255,255,1)",
+          "comment": ""
+        }
+      },
+      "Black Carbon": {
+        "100": {
+          "value": "rgba(51,51,51,1)",
+          "comment": ""
+        },
+        "200": {
+          "value": "rgba(0,0,0,1)",
+          "comment": ""
+        }
+      },
+      "Cool December": {
+        "100": {
+          "value": "rgba(255,252,247,1)",
+          "comment": ""
+        }
+      },
+      "Dark Blue": {
+        "100": {
+          "value": "rgba(20,41,82,1)",
+          "comment": ""
+        },
+        "200": {
+          "value": "rgba(20,41,82,1)",
+          "comment": ""
+        },
+        "300": {
+          "value": "rgba(18,38,67,1)",
+          "comment": ""
+        },
+        "400": {
+          "value": "rgba(17,37,69,1)",
+          "comment": ""
+        }
+      },
+      "Skyan Castle": {
+        "100": {
+          "value": "rgba(229,242,255,1)",
+          "comment": ""
+        },
+        "200": {
+          "value": "rgba(217,240,255,1)",
+          "comment": ""
+        },
+        "300": {
+          "value": "rgba(164,213,255,1)",
+          "comment": ""
+        }
+      },
+      "Gainsboro Smoke": {
+        "100": {
+          "value": "rgba(244,244,244,1)",
+          "comment": ""
+        },
+        "200": {
+          "value": "rgba(217,217,217,1)",
+          "comment": ""
+        }
+      },
+      "Sky High": {
+        "100": {
+          "value": "rgba(168,192,240,1)",
+          "comment": ""
+        }
+      }
+    },
+    "Color": {
+      "value": "rgba(255,255,255,1)",
+      "comment": ""
+    }
+  },
+  "size": {
+    "Spacing": {
+      "2XS": {
+        "value": 4,
+        "comment": ""
+      },
+      "XS": {
+        "value": 10,
+        "comment": ""
+      },
+      "S": {
+        "value": 11,
+        "comment": ""
+      },
+      "M": {
+        "value": 14,
+        "comment": ""
+      },
+      "L": {
+        "value": 16,
+        "comment": ""
+      },
+      "XL": {
+        "value": 23,
+        "comment": ""
+      },
+      "2XL": {
+        "value": 47,
+        "comment": ""
+      }
+    },
+    "Radius": {
+      "2XS": {
+        "value": 0,
+        "comment": ""
+      },
+      "XS": {
+        "value": 2,
+        "comment": ""
+      },
+      "S": {
+        "value": 18,
+        "comment": ""
+      },
+      "M": {
+        "value": 25,
+        "comment": ""
+      },
+      "L": {
+        "value": 28,
+        "comment": ""
+      },
+      "XL": {
+        "value": 40,
+        "comment": ""
+      },
+      "2XL": {
+        "value": 100,
+        "comment": ""
+      }
+    },
+    "Stroke": {
+      "2XS": {
+        "value": 0.02500000037252903,
+        "comment": ""
+      },
+      "XS": {
+        "value": 0.5389222502708435,
+        "comment": ""
+      },
+      "S": {
+        "value": 1,
+        "comment": ""
+      },
+      "M": {
+        "value": 1.941666603088379,
+        "comment": ""
+      },
+      "L": {
+        "value": 2,
+        "comment": ""
+      },
+      "XL": {
+        "value": 2.5,
+        "comment": ""
+      },
+      "2XL": {
+        "value": 4,
+        "comment": ""
+      },
+      "3XL": {
+        "value": 5.832622051239014,
+        "comment": ""
+      },
+      "4XL": {
+        "value": 6.13413143157959,
+        "comment": ""
+      },
+      "5XL": {
+        "value": 6.474914073944092,
+        "comment": ""
+      },
+      "6XL": {
+        "value": 6.474916458129883,
+        "comment": ""
+      },
+      "7XL": {
+        "value": 6.482412338256836,
+        "comment": ""
+      },
+      "8XL": {
+        "value": 6.8557939529418945,
+        "comment": ""
+      }
+    }
+  }
+}
