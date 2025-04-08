@@ -1,0 +1,75 @@
+{
+  "color": {},
+  "size": {
+    "Global Tokens": {
+      "Open Sans": {
+        "Typography 1": {
+          "value": "24",
+          "comment": ""
+        },
+        "Typography 2": {
+          "value": "24",
+          "comment": ""
+        },
+        "Typography 3": {
+          "value": "24",
+          "comment": ""
+        },
+        "Typography 4": {
+          "value": "24",
+          "comment": ""
+        },
+        "Typography 5": {
+          "value": "24",
+          "comment": ""
+        },
+        "Typography 6": {
+          "value": "30",
+          "comment": ""
+        },
+        "Typography 7": {
+          "value": "40",
+          "comment": ""
+        },
+        "Typography 8": {
+          "value": "40",
+          "comment": ""
+        },
+        "Typography 9": {
+          "value": "45",
+          "comment": ""
+        },
+        "Typography 10": {
+          "value": "50",
+          "comment": ""
+        }
+      },
+      "Atkinson Hyperlegible": {
+        "Typography 1": {
+          "value": "32",
+          "comment": ""
+        },
+        "Typography 2": {
+          "value": "40",
+          "comment": ""
+        },
+        "Typography 3": {
+          "value": "40",
+          "comment": ""
+        },
+        "Typography 4": {
+          "value": "40",
+          "comment": ""
+        },
+        "Typography 5": {
+          "value": "45",
+          "comment": ""
+        },
+        "Typography 6": {
+          "value": "96",
+          "comment": ""
+        }
+      }
+    }
+  }
+}
