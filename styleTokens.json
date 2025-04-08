@@ -1,0 +1,58 @@
+{
+  "color": {
+    "dark blue": {
+      "value": "rgba(18,38,67,1)",
+      "comment": "base and text"
+    },
+    "cool december": {
+      "value": "rgba(255,252,247,1)",
+      "comment": "background and text"
+    },
+    "gainsboro smoke": {
+      "value": "rgba(244,244,244,1)",
+      "comment": ""
+    },
+    "dusk": {
+      "value": "rgba(59,90,169,1)",
+      "comment": "secondary buttons"
+    },
+    "sky high": {
+      "value": "rgba(168,192,240,1)",
+      "comment": "teritary colour to be used for details"
+    },
+    "skyan castle": {
+      "value": "rgba(229,242,255,1)",
+      "comment": "tertiary colour to be used for details"
+    }
+  },
+  "size": {
+    "header text": {
+      "value": "96",
+      "comment": "headers"
+    },
+    "wordmark text": {
+      "value": "40",
+      "comment": "wordmark"
+    },
+    "tab text": {
+      "value": "40",
+      "comment": "tab titles on web format"
+    },
+    "app text": {
+      "value": "32",
+      "comment": "text on the app"
+    },
+    "button text": {
+      "value": "24",
+      "comment": "text on buttons"
+    },
+    "copy": {
+      "value": "24",
+      "comment": "copy on the app"
+    },
+    "web text": {
+      "value": "32",
+      "comment": "text on the website format"
+    }
+  }
+}
