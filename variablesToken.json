@@ -79,18 +79,6 @@
   },
   "size": {
     "Spacing": {
-      "2XS": {
-        "value": 4,
-        "comment": ""
-      },
-      "XS": {
-        "value": 10,
-        "comment": ""
-      },
-      "S": {
-        "value": 11,
-        "comment": ""
-      },
       "M": {
         "value": 14,
         "comment": ""
@@ -113,20 +101,12 @@
         "value": 0,
         "comment": ""
       },
-      "XS": {
-        "value": 2,
-        "comment": ""
-      },
       "S": {
         "value": 18,
         "comment": ""
       },
       "M": {
         "value": 25,
-        "comment": ""
-      },
-      "L": {
-        "value": 28,
         "comment": ""
       },
       "XL": {
@@ -139,14 +119,6 @@
       }
     },
     "Stroke": {
-      "2XS": {
-        "value": 0.02500000037252903,
-        "comment": ""
-      },
-      "XS": {
-        "value": 0.5389222502708435,
-        "comment": ""
-      },
       "S": {
         "value": 1,
         "comment": ""
@@ -177,18 +149,6 @@
       },
       "5XL": {
         "value": 6.474914073944092,
-        "comment": ""
-      },
-      "6XL": {
-        "value": 6.474916458129883,
-        "comment": ""
-      },
-      "7XL": {
-        "value": 6.482412338256836,
-        "comment": ""
-      },
-      "8XL": {
-        "value": 6.8557939529418945,
         "comment": ""
       }
     }
