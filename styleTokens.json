@@ -2,57 +2,57 @@
   "color": {
     "dark blue": {
       "value": "rgba(18,38,67,1)",
-      "comment": "base and text"
+      "comment": "use for base colour on dark mode and text on light mode on both iOS and website pages"
     },
     "cool december": {
       "value": "rgba(255,252,247,1)",
-      "comment": "background and text"
+      "comment": "use for base colour on light mode and text on dark mode on both iOS and website pages"
     },
     "gainsboro smoke": {
       "value": "rgba(244,244,244,1)",
-      "comment": ""
+      "comment": "secondary colour to be used for larger details"
     },
     "dusk": {
       "value": "rgba(59,90,169,1)",
-      "comment": "secondary buttons"
+      "comment": "secondary buttons for both light and dark modes on both iOS and website pages"
     },
     "sky high": {
       "value": "rgba(168,192,240,1)",
-      "comment": "teritary colour to be used for details"
+      "comment": "teritary colour to be used for smaller details"
     },
     "skyan castle": {
       "value": "rgba(229,242,255,1)",
-      "comment": "tertiary colour to be used for details"
+      "comment": "tertiary colour to be used for smaller details"
     }
   },
   "size": {
     "header text": {
       "value": "96",
-      "comment": "headers"
+      "comment": "use for headers on the web page"
     },
     "wordmark text": {
       "value": "40",
-      "comment": "wordmark"
+      "comment": "use for the wordmark on the iOS app and webpage"
     },
     "tab text": {
       "value": "40",
-      "comment": "tab titles on web format"
+      "comment": "to be used for tab titles on web format"
     },
     "app text": {
       "value": "32",
-      "comment": "text on the app"
+      "comment": "to be used for text on the app"
     },
     "button text": {
-      "value": "24",
-      "comment": "text on buttons"
+      "value": "44",
+      "comment": "to be used for text on buttons on both the iOS app and webpage"
     },
     "copy": {
       "value": "24",
-      "comment": "copy on the app"
+      "comment": "to be used for copy on the app"
     },
     "web text": {
       "value": "32",
-      "comment": "text on the website format"
+      "comment": "to be used for text on the website format"
     }
   }
 }
